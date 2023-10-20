@@ -1,7 +1,7 @@
 ## Olá, me chamo Carlos.
 <div style="display: inline_block"
  
-  <a href="https://wa.me/5543988035651" target="_blank">
+  <a href="https://wa.me/5543988035651">
    <img align="center" alt="whatsapp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /> 
   </a>
  
