@@ -9,6 +9,7 @@
   <a href="https://www.instagram.com/carlllos.png/" target="_blank">
     <img align="center" alt="instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> 
   </a>
+  </div><br/>
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlllloss&show_icons=true&theme=dracula)
 
