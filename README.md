@@ -7,7 +7,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosegoulart&show_icons=true&theme=dracula)
 
-### Tecnologias que tenho estudado
+### Tecnologias que tenho utilizado
 <div style="display: inline_block">
   <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
   <img align="center" alt="typescript" src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white" />
