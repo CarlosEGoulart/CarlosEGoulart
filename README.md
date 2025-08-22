@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá, eu sou o Carlos Eduardo Goulart</h1>
+<h1 align="center">👋 Olá, eu sou o Carlos Eduardo Goulart Oliveira</h1>
 <h3 align="center">Desenvolvedor Web e estudante de Sistemas para Internet</h3>
 
 <p align="center">
