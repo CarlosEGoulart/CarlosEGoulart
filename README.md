@@ -80,5 +80,5 @@ Aqui estão algumas das tecnologias com as quais tenho trabalhado:
 </p>
 <p align="center">
   <a href="https://www.linkedin.com/in/carlos-eduardo-goulart-oliveira-a59071234/" target="_blank"><strong>LinkedIn</strong></a> | 
-  <a href="mailto:seu-email-aqui@exemplo.com"><strong>Email</strong></a>
+  <a href="mailto:goulart193@gmail.com"><strong>Email</strong></a>
 </p>
