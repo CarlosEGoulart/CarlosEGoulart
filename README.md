@@ -11,7 +11,7 @@
 ### 👨‍💻 Sobre Mim
 
 <p>
-  Sou estudante de Sistemas para Internet na <strong>UTFPR</strong>, com grande interesse em desenvolvimento Full Stack e tecnologias modernas. Atualmente, estou focando meus estudos em construções de projetos backend utilizando PHP, desenvolvimento Mobile utilizando React Native, banco de dados NoSQL utilizando MongoDB e aprimorando minha habilidade em resolução de problemas utilizando TypeScript.
+  Sou estudante de Sistemas para Internet na <strong>UTFPR</strong>, com grande interesse em desenvolvimento Full Stack e tecnologias modernas. Atualmente, estou focando meus estudos em construções de projetos backend utilizando PHP, desenvolvimento Mobile utilizando React Native, banco de dados NoSQL utilizando MongoDB e aprimorando minha habilidade em resolução de problemas utilizando TypeScript, além do desenvolvimento web com o framework Laravel.
 </p>
 <p>
   Busco oportunidades para aplicar meu conhecimento, aprender com profissionais experientes e contribuir para projetos desafiadores.
