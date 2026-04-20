@@ -11,10 +11,7 @@
 ### 👨‍💻 Sobre Mim
 
 <p>
-  Sou estudante de Sistemas para Internet na <strong>UTFPR</strong>, com grande interesse em desenvolvimento Full Stack e tecnologias modernas. Atualmente, estou focando meus estudos em construções de projetos backend utilizando PHP, desenvolvimento Mobile utilizando React Native, banco de dados NoSQL utilizando MongoDB e aprimorando minha habilidade em resolução de problemas utilizando TypeScript, além do desenvolvimento web com o framework Laravel.
-</p>
-<p>
-  Busco oportunidades para aplicar meu conhecimento, aprender com profissionais experientes e contribuir para projetos desafiadores.
+  Sou estudante de Sistemas para Internet na <strong>UTFPR</strong> e estagiário na <strong>Millpar</strong> com grande interesse em desenvolvimento BackEnd. Atualmente, estou focando meus estudos em construções de projetos utilizando Laravel, desenvolvimento Mobile utilizando React Native, banco de dados utilizando PostgreSQL e aprimorando minha habilidade em resolução de problemas utilizando TypeScript.
 </p>
 
 ---
@@ -32,6 +29,7 @@ Aqui estão algumas das tecnologias com as quais tenho trabalhado:
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a>
         <a href="https://www.w3.org/html/" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
         <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://img.shields.io/badge/CSS-663399.svg?style=for-the-badge&logo=CSS&logoColor=white"></a>
+        <a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white"></a>
       </p>
     </td>
     <td valign="top" width="50%">
@@ -51,6 +49,7 @@ Aqui estão algumas das tecnologias com as quais tenho trabalhado:
       <p align="left">
         <a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white"></a>
         <a href="https://www.mongodb.com/" target="_blank"><img src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white"></a>
+        <a href="https://www.postgresql.org/" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white"></a>
       </p>
     </td>
     <td valign="top" width="50%">
